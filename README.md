@@ -1,5 +1,5 @@
-##                                           Hi 👋, I'm Aminu Hamza Nababa (Al'amin)
-##                                   Techie | Data Scientist | Mathematics and Physics tutor
+# <center>__Hi 👋, I'm Aminu Hamza Nababa (Al'amin)__
+# **Techie | Data Scientist | Mathematics and Physics tutor**</center>
                                    
                                    
 - 👀 I’m interested in Science and Technology...
