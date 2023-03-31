@@ -1,5 +1,5 @@
-# <center>__Hi 👋, I'm Aminu Hamza Nababa (Al'amin)__
-# **Techie | Data Scientist | Mathematics and Physics tutor**</center>
+# <p style="text-align: center;">__Hi 👋, I'm Aminu Hamza Nababa (Al'amin)__
+# **Techie | Data Scientist | Mathematics and Physics tutor**</p>
                                    
                                    
 - 👀 I’m interested in Science and Technology...
