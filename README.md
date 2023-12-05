@@ -17,13 +17,7 @@ Furthermore, my academic journey continues to evolve,and I am currently level 2 
 * 🧠  I'm learning AI, ML, DL
 * 🤝  I'm open to collaborating on AI, ML, DL, DS and Automotive Engineering related projects.
 
-<a href="https://www.github.com/Alamin" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Alamin?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a><a href="https://www.x.com/https://twitter.com/nababa_h" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/https://twitter.com/nababa_h?logo=twitter&style=for-the-badge&color=0891b2&labelColor=0f172a"
-/></a>
-
 ### Skills
-
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
