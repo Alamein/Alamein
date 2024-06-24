@@ -4,7 +4,7 @@ Hi 👋 My name is AMINU HAMZA NABABA (Al'amin)
 Techie, Teacher, Data Scientist & Student of Automotive Engineering.
 --------------------------------------------------------------------
 
-I currently hold the distinguished title of Fellow at Arewa Data Science Academy (ADS), a revered institution that has served as the foundational crucible for the cultivation of my expertise in the realm of data science. It is within the nurturing confines of ADS that I have been afforded the invaluable opportunity to not only acquire but also meticulously refine my skills in the intricate and ever-evolving field of data science.
+I currently hold the distinguished title of ***Mentor*** at *Arewa Data Science Academy (ArewaDs)*, a revered institution that has served as the foundational crucible for the cultivation of my expertise in the realm of data science. It is within the nurturing confines of ADS that I have been afforded the invaluable opportunity to not only acquire but also meticulously refine my skills in the intricate and ever-evolving field of data science.
 
 In addition to my role as a Fellow at ADS, I bring a wealth of experience in the sphere of education. My pedagogical journey has seen me take on the role of an instructor, imparting knowledge in the subjects of mathematics and physics at the esteemed Star-Academy Extra moral lesson. This enriching experience has enabled me to combine my passion for teaching with my proficiency in these essential STEM disciplines, contributing to the intellectual growth of aspiring students.
 
