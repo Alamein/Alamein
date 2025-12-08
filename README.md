@@ -1,7 +1,7 @@
 Hi 👋 My name is AMINU HAMZA NABABA (Al'amin)
 =============================================
 
-Techie, Teacher, Data Scientist & Student of Automotive Engineering.
+Techie, Teacher, Data Scientist & Student of Automotive Engineering .
 --------------------------------------------------------------------
 
 I currently hold the distinguished title of ***Mentor*** at *Arewa Data Science Academy (ArewaDs)*, a revered institution that has served as the foundational crucible for the cultivation of my expertise in the realm of data science. It is within the nurturing confines of ADS that I have been afforded the invaluable opportunity to not only acquire but also meticulously refine my skills in the intricate and ever-evolving field of data science.
