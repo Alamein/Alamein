@@ -8,7 +8,7 @@ I currently hold the distinguished title of ***Mentor*** at *Arewa Data Science 
 
 In addition to my role as a Fellow at ADS, I bring a wealth of experience in the sphere of education. My pedagogical journey has seen me take on the role of an instructor, imparting knowledge in the subjects of mathematics and physics at the esteemed Star-Academy Extra moral lesson. This enriching experience has enabled me to combine my passion for teaching with my proficiency in these essential STEM disciplines, contributing to the intellectual growth of aspiring students.
 
-Furthermore, my academic journey continues to evolve,and I am currently level 300 student of Engineering, pursuing a B.Eng in the field of automotive engineering. This academic pursuit not only reflects my relentless commitment to expanding my knowledge base but also underscores my aspirations to make significant contributions within the automotive engineering domain. My journey encompasses a dynamic combination of experiences, skills, and aspirations that collectively shape my educational and professional path.
+Furthermore, my academic journey continues to evolve,and I am currently level 400 student of Engineering, pursuing a B.Eng in the field of automotive engineering. This academic pursuit not only reflects my relentless commitment to expanding my knowledge base but also underscores my aspirations to make significant contributions within the automotive engineering domain. My journey encompasses a dynamic combination of experiences, skills, and aspirations that collectively shape my educational and professional path.
 
 * 🌍  I'm based in Kano State
 * 🖥️  See my portfolio at [Al'amin Nababa's porfolio](https://alamein.github.io/amin/)
