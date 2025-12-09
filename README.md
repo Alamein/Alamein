@@ -10,7 +10,7 @@ In addition to my role as a Fellow at ADS, I bring a wealth of experience in the
 
 Furthermore, my academic journey continues to evolve,and I am currently level 400 student of Engineering, pursuing a B.Eng in the field of automotive engineering. This academic pursuit not only reflects my relentless commitment to expanding my knowledge base but also underscores my aspirations to make significant contributions within the automotive engineering domain. My journey encompasses a dynamic combination of experiences, skills, and aspirations that collectively shape my educational and professional path.
 
-* 🌍  I'm based in Kano State
+* 🌍  I'm based in Kano State.
 * 🖥️  See my portfolio at [Al'amin Nababa's porfolio](https://alamein.github.io/amin/)
 * ✉️  You can contact me at [alaminhnab4@gmail.com](mailto:alaminhnab4@gmail.com)
 * 🚀  I'm currently working on [ML & DL Projects](http://https://github.com/Alamein/ArewaDS-Machine-Learning-Assignments)
