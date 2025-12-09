@@ -14,7 +14,7 @@ Furthermore, my academic journey continues to evolve,and I am currently level 40
 * 🖥️  See my portfolio at [Al'amin Nababa's porfolio](https://alamein.github.io/amin/)
 * ✉️  You can contact me at [alaminhnab4@gmail.com](mailto:alaminhnab4@gmail.com)
 * 🚀  I'm currently working on [ML & DL Projects](http://https://github.com/Alamein/ArewaDS-Machine-Learning-Assignments)
-* 🧠  I'm learning AI, ML, DL
+* 🧠  I'm learning AI, ML, DL.
 * 🤝  I'm open to collaborating on AI, ML, DL, DS and Automotive Engineering related projects.
 
 <a href="https://www.github.com/Alamein" target="_blank" rel="noreferrer"><img
