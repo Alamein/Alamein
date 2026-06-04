@@ -1,4 +1,4 @@
-Hi 👋 My name is AMINU HAMZA NABABA (Al'amin)
+Hi 👋🏻 My name is AMINU HAMZA NABABA (Al'amin)
 =============================================
 
 Techie, Teacher, Data Scientist & Student of Automotive Engineering.
